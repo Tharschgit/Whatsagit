@@ -1,6 +1,6 @@
 # Whatsagit
 Learning to use Git hub project 
-# This is an <h1> tag
+# This is an tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
 _this is new txt_
@@ -13,3 +13,5 @@ _this is new txt_
 1. Item 3
     1. Item 3a
     1. Item 3b
+
+
