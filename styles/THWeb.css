@@ -1,0 +1,32 @@
+h1 {
+        text-align: center;
+        font-size: 90pt;
+        color: coral;
+        margin-bottom: 6px;
+        text-decoration: underline;
+    }
+  
+   body {
+        margin: 60px;
+        width: 250px;
+    }
+  
+    th {
+        padding: 3px;
+    }
+  
+    td {
+        padding-left: 5px;
+        padding-right: 8px;
+        border: 1px solid coral;
+        background-color: darkgrey;
+    }
+
+    #trHeader {
+        text-decoration: underline;
+        color: #990000;
+    }
+  
+    .centerCell {
+        text-align: left;
+    }
